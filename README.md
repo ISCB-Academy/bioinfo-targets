@@ -25,10 +25,9 @@ The workshop is split into two parts:
 
 ## Resources
 
-- Slides
-- [Code repository](https://github.com/joelnitta/targets_vcf_example) for variant calling workflow using {targets}.
+- [Slides](https://joelnitta.github.io/iscb-targets-intro/)
+- [Code repository](https://github.com/joelnitta/targets_vcf_example) for variant calling workflow using {targets}
 - Data Carpentry ["Data Wrangling and Processing for Genomics"](https://datacarpentry.org/wrangling-genomics/04-variant_calling/index.html) workshop, basis for the {targets} variant calling workflow
-
 
 ## Objectives
 
