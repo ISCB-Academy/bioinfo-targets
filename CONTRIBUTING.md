@@ -1,14 +1,14 @@
 # Contributing Guidelines:
 
-We welcome all contributions to the ISCB Academy. The contribution can be a [issue report](https://github.com/ISCB-Academy/FIXME/issues) 
-or a [pull request](https://github.com/ISCB-Academy/FIXME/pulls).
+We welcome all contributions to the ISCB Academy. The contribution can be a [issue report](https://github.com/ISCB-Academy/bioinfo-targets/issues) 
+or a [pull request](https://github.com/ISCB-Academy/bioinfo-targets/pulls).
 
 ## Contribution workflow:
 
-1. Check that there isn't [already an issue](https://github.com/ISCB-Academy/FIXME/issues) about your idea to avoid duplicating work.
+1. Check that there isn't [already an issue](https://github.com/ISCB-Academy/bioinfo-targets/issues) about your idea to avoid duplicating work.
     * If there isn't one already, please create one so that others know you're working on this
 
-2. Fork the [ISCB-Academy/ISCB-Academy](https://github.com/ISCB-Academy/FIXME/) to your GitHub account.
+2. Fork the [ISCB-Academy/ISCB-Academy](https://github.com/ISCB-Academy/bioinfo-targets/) to your GitHub account.
 
 3. Clone the forked repository on your local machine.
 
@@ -21,9 +21,9 @@ or a [pull request](https://github.com/ISCB-Academy/FIXME/pulls).
 
 ```bash
 
-    git remote add upstream https://github.com/ISCB-Academy/FIXME.git
+    git remote add upstream https://github.com/ISCB-Academy/bioinfo-targets.git
     git fetch upstream
-    git pull upstream master
+    git pull upstream main
     git push
     
 ```
@@ -54,6 +54,6 @@ or a [pull request](https://github.com/ISCB-Academy/FIXME/pulls).
     
  ```
 
-9. Submit a Pull Request against the `master` branch and wait for the code to be reviewed and merged.
+9. Submit a Pull Request against the `main` branch and wait for the code to be reviewed and merged.
 
 If you're not used to this workflow with git, you can start with some [basic docs from GitHub](https://help.github.com/articles/fork-a-repo/).
