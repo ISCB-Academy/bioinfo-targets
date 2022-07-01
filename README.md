@@ -35,7 +35,7 @@ The workshop is split into two parts:
 
 By the end of the workshop, participants will be able to:
 - Use basic functions of the {targets} R package
-- Write wrapper functions calling programs to run in docker
+- Write wrapper functions calling programs to run in docker from R
 - Use the {targets} R package to construct bioinformatics pipelines
 
 ## Not covered
